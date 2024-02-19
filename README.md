@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c#,git,github,python,c,html" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,cs,postgresql,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,postgresql,visualstudio" /><br>
 </div>
 </div>
 </div>
