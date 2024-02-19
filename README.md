@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,python,c,html" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,c#,postgresql,html" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,linkedin,visualstudio" /><br>
 </div>
 </div>
