@@ -47,8 +47,3 @@
   ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
  
 </div>
-### Snake game
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Asadullokh27&theme=radical&no-frame=true&no-bg=true&margin-w=4)
